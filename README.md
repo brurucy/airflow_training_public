@@ -1,6 +1,11 @@
-## Acknowledgements
+## Table of contents
 
-The dockerfile and entrypoint are modified versions of those taken from: https://github.com/puckel/docker-airflow and https://github.com/happilyeverafter95/slack-airflow
+* What is Airflow?
+* What's the point of Airflow?
+* What can and can't it do?
+* The Dag
+* The Operators
+* Trigger Rules
 
 ## Requirements
 
@@ -43,3 +48,7 @@ shut down everything
 sudo docker-compose down
 
 ```
+
+## Acknowledgements
+
+The dockerfile and entrypoint are modified versions of those taken from: https://github.com/puckel/docker-airflow and https://github.com/happilyeverafter95/slack-airflow

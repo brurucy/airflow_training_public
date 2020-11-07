@@ -9,9 +9,10 @@
 
 ## Requirements
 
-* To have docker *and* docker-compose installed
-* Run docker build BEFORE the class starts
 * `sudo apt-get install python3-dev`
+* To have docker *and* docker-compose installed.
+* Install docker and docker-compose exactly as it is described in the website.
+* **do not do do apt install docker or docker-compose**
 
 ## How to spin the webserver up
 
